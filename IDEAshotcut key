@@ -3,3 +3,4 @@ command + p 方法参数提示显示
 option + f1 显示当前文件选择目标弹出层，弹出层中有很多目标可以进行选择
 command + option + l 格式华代码
 option + f7 查看方法被调用树
+command + option + t 选中代码后快速构建代码块：try/catch
