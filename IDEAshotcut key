@@ -8,6 +8,7 @@ command + f 当前类中查找
 control + shift+f 在当前工程种查找
 command + t svn更新
 command + k svn提交
+F2 / Shift + F2 跳转到下一个/上一个突出错误或警告的位置
 
 Mac键盘符号和修饰键说明
 ⌘ Command
